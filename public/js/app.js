@@ -1,4 +1,3 @@
-console.log("Client side js loaded");
 
 const fetchLocaton = (location) => {
   messageOne.textContent = "Loading..";
